@@ -4,11 +4,11 @@
 
 ### Corona
 WEb Scraping and Data Visulization with Python</p>
-For [More](https://github.com/vipulvyas/Data-Visulization/blob/master/corona/Readme.md) Detil 
+For [More](https://github.com/vipulvyas/Data-Visulization/blob/master/corona/Readme.md) Detail 
 
 
 ### Pentesting with Pandas
-Data visulize with pandas
+Data visulize with pandas</p>
 For [More](https://github.com/vipulvyas/Data-Visulization/blob/master/pentestingwithpandas/Readme.md) Detail</p>
 
 
