@@ -1,5 +1,10 @@
 # Data-Visulization
 <details>
            <summary>Corona</summary>
-           <p>Content 1 Content 1 Content 1 Content 1 Content 1</p>
-         </details>
+           <p>WEb Scraping and Data Visulization</p>
+           <p>WEb Scraping and Data Visulization</p>
+</details>
+<details>
+           <summary>Corona</summary>
+           <p>WEb Scraping and Data Visulization</p>
+</details>
