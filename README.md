@@ -4,10 +4,12 @@
 
 <details>
            <summary>Corona</summary>
-           ```<p>WEb Scraping and Data Visulization</p>```
+           <p></p>
+           <p>WEb Scraping and Data Visulization</p>
            <p></p>
 </details>
 <details>
-           <summary>Corona</summary>
-           <p>WEb Scraping and Data Visulization</p>
+           <summary>Pentesting with Pandas</summary>
+            <p></p>
+           <p>Data visulize with pandas</p>
 </details>
