@@ -1,5 +1,5 @@
 # Data-Visulization
-
-## Corona 
-    - WebScraping
-        - Daily status about Corona Virus in india and in whole world
+    <details>
+           <summary>Corona</summary>
+           <p>Content 1 Content 1 Content 1 Content 1 Content 1</p>
+         </details>
