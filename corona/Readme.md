@@ -1,7 +1,7 @@
 
 # Introduction
 
-It is for daily status of corona virus in India and In the world. It is web scaraper with take data from online website https://www.mohfw.gov.in/ for India and https://www.worldometers.info/coronavirus/ for world. Data is also visulize by graph.
+It is for daily status of corona virus in India and In the world. It is web scaraper with take data from online indian [website]( https://www.mohfw.gov.in/) for India and [global](https://www.worldometers.info/coronavirus/) for world. Data is also visulize by graph.
 and also data visulization for Corona Daily status data [Ref](https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/) and voila dashbord.
 
 ## Installation
