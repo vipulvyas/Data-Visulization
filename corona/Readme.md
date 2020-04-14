@@ -27,5 +27,5 @@ jupyter noteboke
 voila voila_corona_dashbord.ipynb --port 8888
 ```
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Yaktocat](./dash.png)
 
